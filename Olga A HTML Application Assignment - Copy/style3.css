@@ -1,0 +1,11 @@
+img {
+	width: 225px;
+	height: 225px;
+	border-style: solid;
+	border-color: navy;
+}
+
+h2{
+	color: navy;
+	font-style: italic;
+}

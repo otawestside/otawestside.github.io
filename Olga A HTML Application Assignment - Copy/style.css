@@ -1,0 +1,64 @@
+		
+body {
+		background: url('applecamera.jpg')
+		no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+				background-size: cover;	
+			}
+h1{
+		color: white;
+		font-size: 50px;
+		font-family: 'Helvetica', Helvetica;
+		font-weight: 100;
+		font-size: 60px;
+		margin : 0px;
+		}
+p {
+		color: white;
+		font-size:20px;
+		font-family: 'Helvetica', Helvetica;
+		font-weight: 100;
+		font-size: 30px;
+}
+
+#box {
+	background-color: rgba(88,153,246,0.5);
+	padding: 5px;
+	width: 100%;
+	height: 100%;
+	margin-top: 75px;
+	margin-bottom: 50px;
+	top: -2%;
+	text-align: center;
+	margin-left: 0px;
+	margin-right: 40px;
+	background-color: rgba(66,160,179,0.5);
+}
+		
+img {
+	width: 60px;
+	height: 60px;
+	margin-top: 0px;
+	
+}
+	
+#bio {
+	Color: green;
+	font-style: italic;
+	font-family: forte regular;
+	font-size: 40px;
+	font-weight: bold;
+}
+a:link {
+	color: red;
+}
+a:visited{
+	color: purple;
+}
+a:hover {
+	color: green;
+}
+a:active {
+	color: green;
+}
