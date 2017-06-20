@@ -9,7 +9,18 @@ body {
 
 h1 {
     text-decoration: underline;
+	color: navy;
+
 }
+h2 {
+	color: navy;
+	
+}
+	
+
+h3{
+    	color: rgb(66,160,179);
+		}
 
 
 #box {
@@ -23,6 +34,7 @@ h1 {
 	text-align: center;
 	margin-left: 0px;
 	margin-right: 40px;
+	font-family: 'Helvetica', Helvetica;
 }
 #employment {
 padding : 20px;
