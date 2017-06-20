@@ -1,6 +1,6 @@
 		
 body {
-		background: url('applecamera.jpg')
+		background: url('laptopcamera.jpg')
 		no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -50,15 +50,4 @@ img {
 	font-size: 40px;
 	font-weight: bold;
 }
-a:link {
-	color: red;
-}
-a:visited{
-	color: purple;
-}
-a:hover {
-	color: green;
-}
-a:active {
-	color: green;
-}
+
