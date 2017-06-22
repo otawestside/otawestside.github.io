@@ -14,18 +14,19 @@ a {
  
 h1{
 		color: white;
-		font-size: 50px;
-		font-family: 'Helvetica', Helvetica;
+		font-family: 'Courgette', Courgette;
 		font-weight: 100;
 		font-size: 60px;
 		margin : 0px;
+		font-style: italic;
 		}
 p {
 		color: white;
 		font-size:20px;
-		font-family: 'Helvetica', Helvetica;
+		font-family: 'Courgette', Courgette;
 		font-weight: 100;
 		font-size: 30px;
+		font-style: italic;
 }
 
 #box {
@@ -39,6 +40,7 @@ p {
 	text-align: center;
 	margin-left: 0px;
 	margin-right: 40px;
+	
 }
 	
 		
